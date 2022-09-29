@@ -9,6 +9,8 @@ In this project, let's fix the **Counter** by applying the concepts we have lear
 <br/>
 
 ### Set Up Instructions
+### Check out the Application link:
+https://tarakcounterRea.ccbp.tech
 
 <details>
 <summary>Click to view</summary>
